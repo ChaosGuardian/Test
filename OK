@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-   <title> I just don't know anything. </title>
+   <title> This is a test. </title>
 </head>
 <body>
-   <p> <i> I'm trying anything out because I'm just so new ly! </i> </p>
+   <h1> style="font-weight: bold" A test </h1>
+   <p> style="font-family: Times New Roman; text-align: center" Let me just test a few things, I'm new... </p>
+   <img src=chaos.jpeg />
 </body>
-<html/>
+</html>
