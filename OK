@@ -4,8 +4,8 @@
    <title> This is a test. </title>
 </head>
 <body>
-   <h1> style="font-weight: bold" A test </h1>
-   <p> style="font-family: Times New Roman; text-align: center" Let me just test a few things, I'm new... </p>
+   <h1 style="font-weight: bold"> A test </h1>
+   <p style="font-family: Times New Roman; text-align: center"> Let me just test a few things, I'm new... </p>
    <img src=chaos.jpeg />
 </body>
 </html>
